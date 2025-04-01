@@ -11,9 +11,9 @@ My final dashboard is in [1_Salary_Dashboard.xlsx](https://github.com/user-attac
 
 ### Excel Skills Used
 
-The following Excel skills werer utilized for analysis:
+The following Excel skills were utilized for analysis:
 * 📊 Charts
-* 🧮 Formulas and Funcitons
+* 🧮 Formulas and Functions
 * ✅ Data Validation
 
 ### Data Jobs Dataset
@@ -84,7 +84,7 @@ IF(
 
 #### 🔎 Filtered List
 * 🔒 **Enhanced Data Validation**: Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures.
-   * 🎯 User Input is restricsted to predefined, validation schedule types
+   * 🎯 User Input is restricted to predefined, validation schedule types
    * 🚫 Incorrect or inconsistent entries are prevented
    * 🏋🏼‍♂️ Overall usability of the dashboard is enhanced
 
