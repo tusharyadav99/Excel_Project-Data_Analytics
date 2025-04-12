@@ -94,4 +94,16 @@ IF(
 
 I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from the dataset, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
 
- 
+ ---
+
+## 📬 Contact
+
+For any questions, suggestions, or feedback, feel free to reach out:
+
+- **Email**: [Tushar Yadav](mailto:tyadav940@gmail.com)
+- **GitHub**: [tusharyadav99](https://github.com/tusharyadav99/)
+- **LinkedIn**: [Tushar Yadav](https://www.linkedin.com/in/tushar-yadav-865237183/)
+
+I would love to hear from you!
+
+---
